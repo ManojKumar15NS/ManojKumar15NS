@@ -2,7 +2,7 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Banner GitHub](https://your-banner-image-url.com/banner.png)
+![Banner GitHub]([https://your-banner-image-url.com/banner.png](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e))
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
@@ -61,7 +61,8 @@
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/ManojKumar15NS/ManojKumar15NS/blob/output/github-contribution-grid-snake.svg"/>
+ <img src="https://github.com/ManojKumar15NS/ManojKumar15NS/raw/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
