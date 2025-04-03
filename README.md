@@ -31,7 +31,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -59,18 +58,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-<p align="center">
- <img src="https://github.com/ManojKumar15NS/ManojKumar15NS/raw/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-### 🔥 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojKumar15NS&theme=algolia"/>
-</p>
 
 ---
 
